@@ -6,5 +6,6 @@ def my_select(array)
      select << (array[i])
     i+=1
   end
+  end
   select
 end
